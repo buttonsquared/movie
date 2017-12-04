@@ -1,0 +1,72 @@
+{"movies":[
+  {
+    "title":"Wonder Woman",
+    "categories":["Action","Adventure", "Fantasy"],
+    "storyline":"When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+    "actors":[{"name":"Gal Gadot", "avatarUrl": ""},{"name":"Chris Pine","avatarUrl": ""},{"name":"Robin Wright", "avatarUrl": ""}],
+    "bannerUrl":"",
+    "posterUrl":"",
+    "photoUrls":"",
+    "rating":"8.6",
+    "starRating":"4"
+  },
+  {
+    "title":"Hitmans Bodyguard",
+    "categories":["Action","Comedy"],
+    "storyline":"The world's top bodyguard gets a new client, a hit man who must testify at the International Criminal Court. They must put their differences aside and work together to make it to the trial on time.",
+    "actors":[{"name":"Ryan Reynolds", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3ODk1MTMyNV5BMl5BanBnXkFtZTcwNDEyNTE2Mg@@._V1_.jpg"},
+      {"name":"Samuel L. Jackson","avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg"},
+      {"name":"Gary Oldman", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NTM4MzQ5MV5BMl5BanBnXkFtZTcwOTE4MDczNw@@._V1_UY317_CR0,0,214,317_AL_.jpg"}],
+    "bannerUrl":"",
+    "posterUrl":"",
+    "photoUrls":"",
+    "rating":"6.4",
+    "starRating":"3"
+  },
+  {
+    "title":"Minions",
+    "categories":["Action","Adventure", "Animation"],
+    "storyline":"Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "actors":[{"name":"Sandra Bullock", "avatarUrl": ""},{"name":"Jon Hamm","avatarUrl": ""},{"name":"Michael Keaton", "avatarUrl": ""}],
+    "bannerUrl":"",
+    "posterUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "photoUrls":["https://images-na.ssl-images-amazon.com/images/M/MV5BMzI5MzQxNGYtZGI1Ni00ZGJhLThlM2EtNDM5ZmI0ZjRmZjE0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMDc2Mjk1MF5BMl5BanBnXkFtZTgwOTMyNTY5NTE@._V1_SY1000_CR0,0,1475,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTc4MDI2MF5BMl5BanBnXkFtZTgwNjMyNTY5NTE@._V1_SY1000_CR0,0,660,1000_AL_.jpg"
+    ],
+    "rating":"6.4",
+    "starRating":"3"
+  },
+  {
+    "title":"Cars",
+    "categories":["Comedy","Adventure", "Animation"],
+    "storyline":"Lightning McQueen sets out to prove to a new generation of racers that he's still the best race car in the world.",
+    "actors":[{"name":"Owen Wilson", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQ4ODYxMV5BMl5BanBnXkFtZTcwNDAwMTc2NQ@@._V1_SY1000_CR0,0,627,1000_AL_.jpg"},
+      {"name":"Cristela Alonzo","avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ5ODFjN2ItZjU3Ni00NzQ4LWIwNmItYjVhY2FmYTEzMzZhXkEyXkFqcGdeQXVyMTI5MDczMTE@._V1_.jpg"},
+      {"name":"Chris Cooper", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NTgxMzgxNl5BMl5BanBnXkFtZTcwMTAyMjcxNA@@._V1_.jpg"}],
+    "bannerUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "posterUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "photoUrls":["https://images-na.ssl-images-amazon.com/images/M/MV5BMzI5MzQxNGYtZGI1Ni00ZGJhLThlM2EtNDM5ZmI0ZjRmZjE0XkEyXkFqcGdeQXVyMjk3NTUyOTc@._V1_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMDc2Mjk1MF5BMl5BanBnXkFtZTgwOTMyNTY5NTE@._V1_SY1000_CR0,0,1475,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTc4MDI2MF5BMl5BanBnXkFtZTgwNjMyNTY5NTE@._V1_SY1000_CR0,0,660,1000_AL_.jpg"
+      ],
+    "rating":"6.9",
+    "starRating":"3"
+  },
+  {
+    "title":"Spider-Man: Homecoming",
+    "categories":["Action","Adventure", "Sci-Fi"],
+    "storyline":"Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "actors":[{"name":"Tom Holland", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTAzMzA3NjQwOF5BMl5BanBnXkFtZTgwMDUzODQ5MTI@._V1_SY1000_CR0,0,824,1000_AL_.jpg"},
+      {"name":"Michael Keaton","avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4NTE2MzczOF5BMl5BanBnXkFtZTYwNTM4MjYz._V1_.jpg"},
+      {"name":"Robert Downey Jr.", "avatarUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_SY1000_CR0,0,664,1000_AL_.jpg"}],
+    "bannerUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg",
+    "posterUrl":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzU2OTYyN15BMl5BanBnXkFtZTgwMTkwOTg2MTI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "photoUrls":["https://images-na.ssl-images-amazon.com/images/M/MV5BNzMxMTk3NTQ1Ml5BMl5BanBnXkFtZTgwOTUyMzM4MjI@._V1_SX1777_CR0,0,1777,740_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BNzU3ODQ3Nzc4MV5BMl5BanBnXkFtZTgwMTU2OTkyMzI@._V1_SY1000_CR0,0,716,1000_AL_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/M/MV5BYzFhNzYyNzEtYTc5Yi00OWY1LTg0Y2YtZTNiMjNiODEwMGZmXkEyXkFqcGdeQXVyNjIzMDA2NjE@._V1_.jpg"
+      ],
+    "rating":"6.9",
+    "starRating":"3"
+  }
+]}
